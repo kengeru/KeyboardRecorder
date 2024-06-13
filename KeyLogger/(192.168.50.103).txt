@@ -197,3 +197,4 @@ Thu Jun 13 16:25:40 2024 : backspace
 Thu Jun 13 16:25:41 2024 : ý
 Thu Jun 13 16:25:42 2024 : á
 Thu Jun 13 16:25:43 2024 : enter
+Thu Jun 13 16:25:44 2024 : left windows

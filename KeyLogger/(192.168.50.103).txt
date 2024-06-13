@@ -15,3 +15,4 @@ Thu Jun 13 16:22:09 2024 : ř
 Thu Jun 13 16:22:11 2024 : ž
 Thu Jun 13 16:22:12 2024 : enter
 Thu Jun 13 16:22:13 2024 : left windows
+Thu Jun 13 16:22:14 2024 : shift

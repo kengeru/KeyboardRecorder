@@ -342,3 +342,4 @@ Thu Jun 13 16:28:31 2024 : ů
 Thu Jun 13 16:28:32 2024 : enter
 Thu Jun 13 16:28:33 2024 : alt
 Thu Jun 13 16:28:34 2024 : shift
+Thu Jun 13 16:28:36 2024 : ř

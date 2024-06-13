@@ -77,3 +77,4 @@ Thu Jun 13 16:23:19 2024 : č
 Thu Jun 13 16:23:20 2024 : ř
 Thu Jun 13 16:23:21 2024 : ctrl
 Thu Jun 13 16:23:23 2024 : a
+Thu Jun 13 16:23:24 2024 : backspace
